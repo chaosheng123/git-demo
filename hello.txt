@@ -13,10 +13,8 @@ hello world
 hello world
 hello world
 hello world
-<<<<<<< HEAD
 hello world 你好哈哈
-=======
 hello world
 大胆
->>>>>>> hot-fix
 11111111111111
+22222222222222 by lhc
